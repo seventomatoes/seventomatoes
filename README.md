@@ -1,5 +1,5 @@
 ## 👋 hi, i'm dimitra!
-> currently: preparing for an upcoming internship by refamiliarising myself with c# and learning fundamentals of azure
+> currently: messing around in c++ 
 
 > planning to learn next: web dev stuff ?! (react + typescript)
 
