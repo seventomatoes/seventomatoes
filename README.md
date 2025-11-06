@@ -1,7 +1,6 @@
 ## 👋 hi, i'm dimitra!
-> currently: messing around in c++ 
-
-> planning to learn next: web dev stuff ?! (react + typescript)
+> currently: improving c++ knowledge so i can learn about graphics better 
+> next steps: familiarising myself better with web development frameworks - react, typescript, etc !!
 
 interested in exploring computer vision, human computer interaction, and web design!
 
