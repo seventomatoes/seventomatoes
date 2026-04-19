@@ -1,4 +1,4 @@
-## 👋 hi, i'm dimitra!
+## 🌟 hi, i'm dimitra!
 > currently: improving c++ knowledge so i can learn about graphics better 
 
 > next steps: familiarising myself better with web development frameworks - react, typescript, etc !!
